@@ -3,6 +3,7 @@
 /* html {scroll-behavior: smooth;} */
 body {
     line-height: 1.2;
+    background-color: #fff;
 }
 /* body > * { border: 1px solid red;} */
 
@@ -96,15 +97,19 @@ body {
 }
 #menu1 {
     background-image: url(./img/bg1.jpg);
+    background-color:aquamarine;
 }
 #menu2 {
     background-image: url(./img/bg2.jpg);
+    background-color: yellowgreen;
 }
 #menu3 {
     background-image: url(./img/bg3.jpg);
+    background-color: thistle;
 }
 #menu4 {
     background-image: url(./img/bg4.jpg);
+    background-color: blueviolet;
 }
 .box img {
     /* border:1px solid blue */
